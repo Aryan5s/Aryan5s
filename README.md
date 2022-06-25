@@ -1,6 +1,6 @@
 ![Aryan sharma](https://user-images.githubusercontent.com/97798738/174294112-46dbadf8-d4ff-4f89-951d-26d8b65d84e6.jpg)
 <h1 align="center">Hi, I'm Aryan 👋👩🏾‍💻</h1>
-<h3 align="center">I am Aryan sharma an Information Technology Student from SKIT Jaipur. I am very much interested in contributing for open source. And my career interest is Software Development. Always there to help others and to clarify the doubts you have.</h3>
+<h3 align="center">I am Aryan sharma an Information Technology Student from SKIT Jaipur. I am very much interested in contributing to open source and my career interest is Software Development. Always there to help others and to clarify the doubts you have.</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan5s&label=Profile%20views&color=0e75b6&style=flat" alt="aryan5s" /> </p>
 
