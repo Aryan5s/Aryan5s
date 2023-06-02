@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **about Backend Development and Blockchain**
+- 🌱 I’m currently learning **about Devops**
 
 - 💬 Ask me about **Java , JavaScript , React**
 
