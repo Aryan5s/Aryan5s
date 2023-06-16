@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **about Devops**
 
-- 💬 Ask me about **Java , JavaScript , React**
+- 💬 Ask me about **Java , JavaScript , Node**
 
 - 📫 You can shoot me an email at **as3mh5@gmail.com ! I'll try to respond as soon as I can.**
 
